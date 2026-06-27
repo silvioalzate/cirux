@@ -21,7 +21,7 @@
 
 ---
 
-## 🇪🇸 Español {#español}
+## 🇪🇸 Español (#español)
 
 ### ¿Qué es CiruX?
 
@@ -201,7 +201,7 @@ src/
 
 ---
 
-## 🇺🇸 English {#english}
+## 🇺🇸 English (#english)
 
 ### What is CiruX?
 
