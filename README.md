@@ -384,6 +384,9 @@ src/
 ## 📸 Capturas / Screenshots
 
 
+https://github.com/user-attachments/assets/9a12083e-f0ed-491d-99b2-3942cd4cdc33
+
+
 
 
 ---
