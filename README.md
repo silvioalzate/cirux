@@ -383,7 +383,9 @@ src/
 
 ## 📸 Capturas / Screenshots
 
-(Añadir capturas de pantalla del dashboard, conversaciones de WhatsApp, y flujos de n8n aquí)
+
+
+
 
 ---
 
